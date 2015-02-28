@@ -1,0 +1,7 @@
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\bin\Release\DonnyStats.exe.config
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\bin\Release\DonnyStats.exe
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\bin\Release\DonnyStats.pdb
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\obj\Release\DonnyStats.Properties.Resources.resources
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\obj\Release\DonnyStats.csproj.GenerateResource.Cache
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\obj\Release\DonnyStats.exe
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\obj\Release\DonnyStats.pdb

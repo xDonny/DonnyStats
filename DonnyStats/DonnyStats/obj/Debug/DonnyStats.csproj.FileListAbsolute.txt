@@ -1,0 +1,11 @@
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\bin\Debug\DonnyStats.exe.config
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\bin\Debug\DonnyStats.exe
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\bin\Debug\DonnyStats.pdb
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\obj\Debug\DonnyStats.csprojResolveAssemblyReference.cache
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\obj\Debug\DonnyStats.Properties.Resources.resources
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\obj\Debug\DonnyStats.csproj.GenerateResource.Cache
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\obj\Debug\DonnyStats.exe
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\obj\Debug\DonnyStats.pdb
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\bin\Debug\donnyActivity.ico
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\bin\Debug\donnyError.ico
+c:\users\donny\documents\visual studio 2013\Projects\DonnyStats\DonnyStats\bin\Debug\donnyRunning.ico
